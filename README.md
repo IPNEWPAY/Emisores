@@ -13,4 +13,4 @@ El presente documento tiene como objetivo describir las APIs disponibles para co
 En esta carpera se encuentra los swaggers de las APIs en formato ".yaml". 
 
 Tambien puedes acceder en linea a las APIs:
-* [APIs No Transaccionales](https://github.com/IPNEWPAY/Emisores/blob/main/Swaggers/APIsNoTransaccional.yaml)
+* [APIs No Transaccionales](https://github.com/IPNEWPAY/Emisores/blob/main/APIsNoTransaccionales.html)
