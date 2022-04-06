@@ -9,7 +9,7 @@ El presente documento tiene como objetivo describir el diseño del reporte que s
 El presente documento tiene como objetivo describir las APIs disponibles para consultar el reporte de Liquidación Emisor
 
 
-### 3) Carpeta: *[Swaggers](https://github.com/IPNEWPAY/Emisores/tree/main/swaggers)*
+### 3) Carpeta: *[Swaggers](https://github.com/IPNEWPAY/Emisores/tree/main/Swaggers)*
 En esta carpera se encuentra los swaggers de las APIs en formato ".yaml". 
 
 Tambien puedes acceder en linea a las APIs:
